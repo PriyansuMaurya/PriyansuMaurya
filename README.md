@@ -1,5 +1,5 @@
 [![Twitter](https://img.shields.io/twitter/follow/pr17anshu?style=social)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
-[![Twitter](https://img.shields.io/instagram/follow/pr17anshu?style=social)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
+[![Twitter]([https://img.shields.io/instagram/follow/pr17anshu?style=social](https://img.shields.io/amo/stars/https://docs.github.com/en))]((https://github.com/PriyansuMaurya/PriyansuMaurya))
 
 - 👋 Hi, I’m @PriyansuMaurya
 - 👀 I’m interested in ...  front end part of any application
