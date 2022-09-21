@@ -1,4 +1,6 @@
-/github/followers/:user?label=Follow
+[![Twitter](https://img.shields.io/twitter/follow/pr17anshu?style=social)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
+[![Twitter](https://img.shields.io/instagram/follow/pr17anshu?style=social)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
+
 - 👋 Hi, I’m @PriyansuMaurya
 - 👀 I’m interested in ...  front end part of any application
 - 🌱 I’m currently learning ... Python | Java | HTML5/CSS3/JS/TypeScript | React | Ionic+React
