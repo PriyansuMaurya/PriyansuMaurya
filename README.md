@@ -1,5 +1,4 @@
 [![Twitter](https://img.shields.io/twitter/follow/pr17anshu?style=social)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
-[![Stars ](https://img.shields.io/amo/stars/https://docs.github.com/en)]((https://github.com/PriyansuMaurya/PriyansuMaurya))
 
 
 
