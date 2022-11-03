@@ -28,12 +28,5 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PriyansuMaurya&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=PriyansuMaurya&icon=8&color=1)](https://visitcount.itsvg.in)
 
