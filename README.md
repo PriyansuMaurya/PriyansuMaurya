@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="linkdin_banner_3.png" alt="header image"/>
+  <img src="https://www.linkedin.com/in/priyanshu-maurya/overlay/background-image/" alt="header image"/>
 </p>
 
 ## 🌐 Socials:
