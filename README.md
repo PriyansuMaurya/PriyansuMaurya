@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/priyanshu-maurya/overlay/background-image/" alt="header image"/>
+  <img src="https://media-exp1.licdn.com/dms/image/D5616AQEMy4G7U4dThQ/profile-displaybackgroundimage-shrink_350_1400/0/1670574176712?e=1675900800&v=beta&t=WJ5UtG_rnYgU1tPNVYAhexgcAcvY1Dh4GFu6IDBsKZ8" alt="header image"/>
 </p>
 
 ## 🌐 Socials:
