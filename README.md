@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="./linkdin_banner_3.png" alt="header image"/>
+  <img src="https://github.dev/PriyansuMaurya/PriyansuMaurya/blob/209be8c91245968f26c5c8998e70e86854d5541b/linkdin_banner_3.png" alt="header image"/>
 </p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-maurya/)
