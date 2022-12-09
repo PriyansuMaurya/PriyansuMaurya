@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="PriyansuMaurya/PriyansuMaurya/linkdin_banner_3.png" alt="header image"/>
+  <img src="./linkdin_banner_3.png" alt="header image"/>
 </p>
 
 ## 🌐 Socials:
