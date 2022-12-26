@@ -67,18 +67,18 @@ Presenting [Capture my Tweet]() , Turn your tweets into wonderful images and pos
 
 
 ## 🏆 GitHub Trophies
-<hr>
+
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PriyansuMaurya&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
 </p>
-<hr>
+
 <div align="center">
 
 ## Thanks for visiting my GitHub Profile 🚀
 
 </div>
-<hr>
+
 <!-- ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
