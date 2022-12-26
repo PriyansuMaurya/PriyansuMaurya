@@ -67,12 +67,18 @@ Presenting [Capture my Tweet]() , Turn your tweets into wonderful images and pos
 
 
 ## 🏆 GitHub Trophies
+<hr>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PriyansuMaurya&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
 </p>
+<hr>
+<div align="center">
 
+## Thanks for visiting my GitHub Profile 🚀
 
+</div>
+<hr>
 <!-- ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
@@ -81,13 +87,16 @@ if (codeWorking){
         }
 ``` -->
 
-
+<!-- 
 <p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=PriyansuMaurya&icon=8&color=9" height=30 width=180/>
+    <img src="https://visitcount.itsvg.in/api?id=PriyansuMaurya&icon=" height=30 width=180/>
   </a>
-</p>
-<!-- <p align="center">
+</p> -->
+
+
+<!-- 
+<p align="center">
   <br/>
  ||||||||||||------------^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^------------||||||||||||
 </p> -->
