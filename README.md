@@ -7,7 +7,7 @@
   <a href="https://twitter.com/Pr17anshu">
     <img src="https://img.shields.io/badge/-Twitter-03a9fc" height=25/>
   </a>
-   <a href="https://itspriyanshu.vercel.app/">
+   <a href="https://priyansu.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-fcc203" height=25/>
   </a>
   <a href="https://www.linkedin.com/in/priyanshu-maurya/">
