@@ -1,10 +1,12 @@
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D5616AQEMy4G7U4dThQ/profile-displaybackgroundimage-shrink_350_1400/0/1670574176712?e=1675900800&v=beta&t=WJ5UtG_rnYgU1tPNVYAhexgcAcvY1Dh4GFu6IDBsKZ8" alt="header image"/>
+  <img src="https://github.com/PriyansuMaurya/PriyansuMaurya/assets/101447544/ede44121-f50e-492d-808b-1241be6a2077" alt="header image"/>
+ 
+
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Pr17anshu">
+  <a href="https://twitter.com/PrianshuMaurya">
     <img src="https://img.shields.io/badge/-Twitter-03a9fc" height=25/>
   </a>
    <a href="https://priyansu.vercel.app/">
