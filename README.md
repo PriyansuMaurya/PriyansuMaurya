@@ -9,18 +9,20 @@
 </p>
 
 <p align="center" style="padding: 10px;">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPriyansuMauryal%2FPriyansuMaurya&label=VISITORS&labelColor=%65000&countColor=%FFFFFF" />
+  <br><br>
   <a href="https://twitter.com/PrianshuMaurya">
-    <img src="https://img.shields.io/badge/-Twitter-1B1D2A?style=flat-square&logo=twitter&logoColor=white" height="25"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshu-maurya/">
-    <img src="https://img.shields.io/badge/-LinkedIn-1B1D2A?style=flat-square&logo=linkedin&logoColor=white" height="25"/>
-  </a>
-  <a href="mailto:pr17anshu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1B1D2A?style=flat-square&logo=gmail&logoColor=white" height="25"/>
-  </a>
-  <a href="https://priyansu-maurya.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-1B1D2A?style=flat-square&logo=medium&logoColor=white" height="25"/>
-  </a>
+  <img src="https://img.shields.io/badge/Twitter-1B1D2A?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/in/priyanshu-maurya/">
+  <img src="https://img.shields.io/badge/LinkedIn-1B1D2A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+<a href="mailto:pr17anshu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1B1D2A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+<a href="https://priyansu-maurya.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-1B1D2A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="YourDiscordTag#YourDiscordID" />
+</a>
 </p>
 
 
