@@ -20,12 +20,13 @@
 <a href="mailto:pr17anshu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1B1D2A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
+<a href="https://leetcode.com/priyanshu-maurya/">
+  <img src="https://img.shields.io/badge/LeetCode-1B1D2A?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode" />
+</a>
 <a href="https://priyansu-maurya.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-1B1D2A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="YourDiscordTag#YourDiscordID" />
+  <img src="https://img.shields.io/badge/Medium-1B1D2A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="priyansu-maurya" />
 </a>
 </p>
-
-
 
 <!-- > **Let my projects speak about me** -->
 
