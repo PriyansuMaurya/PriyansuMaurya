@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://priyansu.vercel.app/">
-    <img src="https://github.com/PriyansuMaurya/PriyansuMaurya/assets/101447544/ede44121-f50e-492d-808b-1241be6a2077" alt="header image"/>
+    <img src="./public/hi-there.png" alt="header image"/>
   </a>
   
  
@@ -12,19 +12,19 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPriyansuMauryal%2FPriyansuMaurya&label=VISITORS&labelColor=%65000&countColor=%FFFFFF" />
   <br><br>
   <a href="https://twitter.com/PrianshuMaurya">
-  <img src="https://img.shields.io/badge/Twitter-1B1D2A?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Twitter-8C94A5?style=for-the-badge&logo=x&logoColor=FFFFFF" />
 </a>
 <a href="https://www.linkedin.com/in/priyanshu-maurya/">
-  <img src="https://img.shields.io/badge/LinkedIn-1B1D2A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LinkedIn-8C94A5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 <a href="mailto:pr17anshu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1B1D2A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Gmail-8C94A5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 <a href="https://leetcode.com/priyanshu-maurya/">
-  <img src="https://img.shields.io/badge/LeetCode-1B1D2A?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-8C94A5?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode" />
 </a>
 <a href="https://priyansu-maurya.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-1B1D2A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="priyansu-maurya" />
+  <img src="https://img.shields.io/badge/Medium-8C94A5?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="priyansu-maurya" />
 </a>
 </p>
 
