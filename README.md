@@ -10,6 +10,8 @@
 <h1 align="center"></h1> 
 </div>
 
+<br>
+<div>
 <p align="center" style="padding: 10px;">
 <a href="mailto:pr17anshu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-8C94A5?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/Medium-8C94A5?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="priyansu-maurya" />
 </a>
 </p>
-
+</div>
 <h1 align="center"></h1> 
 <!-- > **Let my projects speak about me** -->
 
@@ -62,7 +64,7 @@ Presenting [Capture my Tweet]() , Turn your tweets into wonderful images and pos
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
 </p>
 
 
